@@ -1,3 +1,8 @@
+/*
+*@author:Om Rajput
+*@version:1.0
+*/
+
 public class TicTacToe_6 {
     static char[][] board = new char [3][3];
     public static void main (String[] args ) {
