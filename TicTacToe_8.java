@@ -21,7 +21,7 @@ public class TicTacToe_8 {
                 gameOver = true;
             }
             else{
-                gameOver = true;
+                gameOver = false;
             }
 
         } 
